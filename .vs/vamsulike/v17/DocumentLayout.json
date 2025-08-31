@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity projects\\vamsulike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|d:\\unity projects\\vamsulike\\assets\\scripts\\levelup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|d:\\unity projects\\vamsulike\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\reposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\reposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|D:\\unity projects\\vamsulike\\assets\\scripts\\scaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FFFC51-4F05-BF5F-D978-A83665E8EBC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelUp.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\LevelUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelUp.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\LevelUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:12:31.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Hand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hand.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Hand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:14:55.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gear.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Gear.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gear.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Gear.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:50:55.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:13:17.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemData.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:46:05.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Follow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Follow.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Follow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:39:31.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUD.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\HUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T11:57:53.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Scaner.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Scaner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scaner.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Scaner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scaner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T10:33:22.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIAzwF4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T09:48:18.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T09:31:37.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T08:32:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PoolManager.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\PoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoolManager.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\PoolManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoolManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T07:59:50.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T07:36:18.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T05:48:37.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reposition.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Reposition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Reposition.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Reposition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Reposition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T05:47:35.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\unity projects\\vamsulike\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:59:30.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
