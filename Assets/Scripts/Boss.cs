@@ -24,7 +24,6 @@ public class Boss : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
     }
 
-    // GameManager�� BossData�� �Ѱ��ָ鼭 ȣ���� �ʱ�ȭ �Լ�
     public void Init(BossData data)
     {
         // ũ�⸦ 3��� Ű���!
@@ -69,15 +68,13 @@ public class Boss : MonoBehaviour
             anim.SetTrigger("Hit");
             AudioManager.instance.Playsfx(AudioManager.SFX.Hit);
         }
-        else if (isLive) // isLive 조건을 추가해서 딱 한 번만 실행되도록!
+        else if (isLive)
         {
-            // 사망 처리를 코루틴으로 시작
             StartCoroutine(DieRoutine());
         }
 
         IEnumerator DieRoutine()
         {
-            // 1. 사망 상태로 전환
             isLive = false;
             coll.enabled = false;
             rb.simulated = false;
@@ -89,10 +86,8 @@ public class Boss : MonoBehaviour
             if (GameManager.instance.isLive)
                 AudioManager.instance.Playsfx(AudioManager.SFX.Dead);
 
-            // 2. deathAnimationTime 만큼 기다리기
             yield return new WaitForSeconds(deathAnimationTime);
 
-            // 3. 기다림이 끝나면 시체(오브젝트) 비활성화
             gameObject.SetActive(false);
         }
     }

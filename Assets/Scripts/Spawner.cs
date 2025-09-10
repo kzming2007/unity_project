@@ -10,13 +10,11 @@ public class Spawner : MonoBehaviour
 
     public void Start()
     {
-        // 다른 친구들을 필요로 하는 코드는 모두 Start에서!
         levelTime = GameManager.instance.maxGameTime / spawnDatas.Length;
     }
     private void Awake()
     {
         spawnPoints = GetComponentsInChildren<Transform>();
-        //levelTime = GameManager.instance.maxGameTime / spawnDatas.Length;
     }
 
     void Update()
@@ -52,9 +50,7 @@ public class SpawnData
 [System.Serializable]
 public class BossData
 {
-    public RuntimeAnimatorController bossAnimator; // 보스의 애니메이터 컨트롤러
-    public int health;          // 보스 체력
-    public float speed;         // 보스 이동 속도
-    public float attackDamage;  // 보스 공격력 (예시)
-    public float attackCooldown; // 보스 공격 쿨타임 (예시)
+    public RuntimeAnimatorController bossAnimator;
+    public int health;
+    public float speed;
 }

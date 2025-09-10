@@ -33,9 +33,9 @@ public class GameManager : MonoBehaviour
 
     private float stageChangeTimer = 0f;
     private int currentStageIndex = 0;
-    [Header("Boss Control")] // 이 부분을 새로 추가하자!
-    public GameObject bossPrefab; // 보스 프리팹 원본
-    public BossData[] bossDatas;  // 스테이지별 보스 데이터 목록
+    [Header("Boss Control")]
+    public GameObject bossPrefab;
+    public BossData[] bossDatas;
     private bool isBossSpawnedForStage = false;
 
 
@@ -114,17 +114,13 @@ public class GameManager : MonoBehaviour
 
         if (spawner.levelTime > 0 && stageChangeTimer >= spawner.levelTime)
         {
-            // --- 보스 소환 로직 ---
-            // 아직 이번 스테이지의 보스가 소환되지 않았고, 소환할 보스 데이터가 남아있다면
             if (!isBossSpawnedForStage && currentStageIndex < bossDatas.Length)
             {
                 SpawnBoss();
-                isBossSpawnedForStage = true; // 소환했다고 표시
+                isBossSpawnedForStage = true;
             }
-            // --------------------
 
-            // 기존 맵 변경 로직 (보스가 나타나고 조금 뒤에 맵이 바뀌는 느낌으로)
-            stageChangeTimer = 0f; // 타이머 초기화를 보스가 죽었을 때로 옮길 수도 있어
+            stageChangeTimer = 0f;
             ChangeNextStage();     
         }
 
@@ -137,38 +133,28 @@ public class GameManager : MonoBehaviour
 
     void SpawnBoss()
     {
-        // 보스 프리팹을 생성
         GameObject bossObj = Instantiate(bossPrefab, player.transform.position + new Vector3(0, 5, 0), Quaternion.identity);
-        // Boss.cs 컴포넌트를 가져옴
         Boss boss = bossObj.GetComponent<Boss>();
-        // 현재 스테이지에 맞는 보스 데이터로 초기화
         boss.Init(bossDatas[currentStageIndex]);
-
-        Debug.Log((currentStageIndex + 1) + "번째 보스 등장!");
     }
 
     void ChangeNextStage()
     {
-        // 다음 스테이지 인덱스가 타일 배열의 길이를 넘어서면 더 이상 진행하지 않음
         if (currentStageIndex + 1 >= stageTiles.Length)
         {
-            Debug.Log("마지막 스테이지입니다.");
             return;
         }
 
-        // 바꿀 대상이 되는 이전 타일과, 새로 적용할 타일을 지정
         TileBase previousTile = stageTiles[currentStageIndex];
         TileBase nextTile = stageTiles[currentStageIndex + 1];
 
-        // 4개의 맵 조각 모두에게 타일을 바꾸라고 명령!
         foreach (MapChanger changer in mapChangers)
         {
             changer.SwapAllTiles(previousTile, nextTile);
         }
 
-        currentStageIndex++; // 현재 스테이지 인덱스를 1 증가시켜 다음을 준비
+        currentStageIndex++;
         isBossSpawnedForStage = false;
-        Debug.Log("스테이지 변경! 현재 스테이지: " + (currentStageIndex + 1));
     }
 
     public void getExp()
